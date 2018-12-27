@@ -1,2 +1,3 @@
 # hello-world
-doing tutorial for git hub
+
+This is my first edit of the readme file. Exciting. Woohoo.
